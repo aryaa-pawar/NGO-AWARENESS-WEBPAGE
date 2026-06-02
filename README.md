@@ -2,6 +2,11 @@
 
 This project is a basic NGO awareness webpage created for InAmigos Foundation. It highlights the NGO's purpose, ongoing initiatives, social impact, visuals, and ways for people to get involved.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/65774e05-40b0-4f96-af49-521bb8a2eb2d" />
+
+deployment link- https://inamigos-foundation-ngo-awareness.netlify.app/
+
+
 ## Project Objective
 
 The objective of this webpage is to spread awareness about InAmigos Foundation projects and encourage visitors to support, volunteer, or connect with the organization.
