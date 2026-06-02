@@ -39,6 +39,3 @@ Information was prepared using InAmigos Foundation's official online presence an
 - Official Facebook page: https://www.facebook.com/InAmigos/
 - Official LinkedIn page: https://www.linkedin.com/company/inamigos-foundation
 
-## Submission Notes
-
-For submission, upload the complete project folder with `index.html`, `style.css`, and the `images` folder. Also include screenshots of the completed webpage.
